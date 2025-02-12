@@ -2,11 +2,11 @@ module github.com/livekit/livekit-cli
 
 go 1.23
 
-toolchain go1.23.6
+toolchain go1.24.0
 
 require (
 	github.com/charmbracelet/huh v0.6.0
-	github.com/charmbracelet/huh/spinner v0.0.0-20250204190110-031e39c29dad
+	github.com/charmbracelet/huh/spinner v0.0.0-20250212000848-1a363d679ec3
 	github.com/charmbracelet/lipgloss v1.0.0
 	github.com/frostbyte73/core v0.1.0
 	github.com/go-logr/logr v1.4.2
@@ -49,7 +49,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/chainguard-dev/git-urls v1.0.2 // indirect
 	github.com/charmbracelet/bubbles v0.20.0 // indirect
-	github.com/charmbracelet/bubbletea v1.2.5-0.20241205214244-9306010a31ee // indirect
+	github.com/charmbracelet/bubbletea v1.3.3 // indirect
 	github.com/charmbracelet/x/ansi v0.8.0 // indirect
 	github.com/charmbracelet/x/exp/strings v0.0.0-20240809174237-9ab0ca04ce0c // indirect
 	github.com/charmbracelet/x/term v0.2.1 // indirect
